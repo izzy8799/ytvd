@@ -4,10 +4,15 @@ Sorry, Linux only ;)
 Downloaded videos are in /home/USERNAME/YTVD
 
 # Installation
-1. Install zenity
+For Arch Linux/Manjaro:
 
-2. Download the YTVD release (https://github.com/izzy8799/ytvd/releases/download/main/ytvd-1.0)
+```clear ; sudo pacman -S wget zenity ; cd /bin ; sudo wget https://github.com/izzy8799/ytvd/releases/download/main/ytvd-1.0 ; sudo chmod +x ytvd-1.0 ; sudo mv "ytvd-1.0" "ytvd" ; echo "Done!"```
 
-3. Put it in /bin and that's it! 
+For Ubuntu/Debian:
 
-To start the program, type into the terminal: `ytvd`
+```sudo apt install zenity wget zenity -y ; cd /bin ; sudo wget https://github.com/izzy8799/ytvd/releases/download/main/ytvd-1.0 ; sudo chmod +x ytvd-1.0 ; sudo mv "ytvd-1.0" "ytvd" ; echo "Done!"```
+
+
+Just highlight the whole command and paste it into the terminal!
+
+After successful installation, to start the program, type into the terminal: `ytvd`
