@@ -1,5 +1,7 @@
 # YVTD 1.0
-Sorry, Linux only :)
+Sorry, Linux only ;)
+
+Downloaded videos are in /home/USERNAME/YTVD
 
 # Installation
 1. Install zenity
