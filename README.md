@@ -4,7 +4,7 @@ Sorry, Linux only ;)
 Downloaded videos are in /home/USERNAME/YTVD
 
 # Installation
-Just highlight the whole command for your distro and paste it into the terminal!
+Just copy the whole command for your distro and paste it into the terminal!
 
 For Arch Linux/Manjaro:
 
